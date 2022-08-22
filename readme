@@ -1,0 +1,7 @@
+Technology: JSP
+This mini project is a mini web development project using JSP (Java Server Pages).
+This mini project aims at developing an admin interface for an academy to access,manipulate and maintain data of students enrolled for various courses offered by the academy and the teachers working in the academy.
+REGISTER - The admin registers to the site by entering his details. He sets his login credentials by entering a username and a valid password. 
+LOGIN - The admin logs in to the site using his login credentials.
+The admin can insert student details, teacher details, view, update or delete student and teacher details.
+The admin can search students based on Register number and search details based on specific course.
